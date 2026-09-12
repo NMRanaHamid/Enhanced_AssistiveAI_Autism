@@ -1,1 +1,5 @@
-# Enhanced_AssistiveAI_Autism
+This dataset was created as part of an initiative to enhance assistive communication for individuals with Autism Spectrum Disorder (ASD). The data were collected from two autism schools located in Bangladesh, with 15 children with ASD participating in the study. The primary motivation behind this work was to facilitate non-verbal communication and education by enabling character selection on a virtual keyboard using eye-gaze patterns, eliminating the need for physical touch.
+
+The shared dataset contains numeric features extracted from the participants’ eye movements, including fixation coordinates (X, Y), fixation frequency, and average distance to fixation. While the original study involved 320 rows, this public dataset provides only the processed numeric sample data suitable for machine learning applications. All data have undergone pre-processing, normalization, and exploratory analysis to ensure reliability and usability.
+
+This dataset is intended to support the development of machine-learning models capable of interpreting gaze patterns for hands-free character selection, contributing to more inclusive educational and communicative tools for children with ASD.
